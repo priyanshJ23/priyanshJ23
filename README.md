@@ -1,4 +1,11 @@
-### Hi there 👋
+###  I am Priyansh Jain a B.tech Student From vit vellore
+
+🔭 I am currently learning and practicing DSA
+🔭 I am a full stack web developer
+💬 Ask me about Javascript
+
+Tools i use
+
 
 <!--
 **priyanshJ23/priyanshJ23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
