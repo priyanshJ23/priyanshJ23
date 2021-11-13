@@ -3,6 +3,7 @@
 🔭 I am currently learning and practicing DSA
 🔭 I am a full stack web developer
 💬 Ask me about Javascript
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshJ23&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
