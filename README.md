@@ -1,4 +1,4 @@
-###  I am Priyansh Jain a B.tech Student From vit vellore
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🔭 I am currently learning and practicing DSA
 🔭 I am a full stack web developer
