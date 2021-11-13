@@ -1,5 +1,20 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I am Priyansh Jain , A passionate full stack Web developer and Coder 
+<!-- Actual text -->
+
+You can find me  on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+
+[2]: https://www.linkedin.com/in/priyansh-jain-6455891b8/
+
 🔭 I am currently learning and practicing DSA
 🔭 I am a full stack web developer
 💬 Ask me about Javascript
