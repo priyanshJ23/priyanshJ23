@@ -4,7 +4,9 @@
 🔭 I am a full stack web developer
 💬 Ask me about Javascript
 
-Tools i use
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?priyanshJ23=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 <!--
