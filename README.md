@@ -25,8 +25,7 @@ You can find me  on [![LinkedIn][2.2]][2].
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshJ23&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 **priyanshJ23/priyanshJ23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
